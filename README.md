@@ -1,6 +1,11 @@
 ### todoist-time-tracker
 A script to export items from a specific Project into an easy to analyze CSV format for time tracking analysis.
 
+![Alt text](./images/data.png "Data")
+
+![Alt text](./images/graph.png "Graph")
+
+
 ### Add your Todoist API token to todoist-time-tracker.py
 
 You can find your Todoist API token via "Setttings > Integrations > API Token"
@@ -23,5 +28,8 @@ While I haven't added the following logic to the script yet, some ideas for futu
 3. Reactive: tasks that poppped up during the day that you had to react to
 4. Distractions: Time spent distracted from any productive tasks
 
-# Questions or Comments
+### Example Spreadsheet
+You can find an example spreadsheet ![here](https://docs.google.com/spreadsheets/d/1g9mh8__dP2G0b64v4SkJvoVyIFraebZAz1mceoj4lL0/edit?usp=sharing).
+
+### Questions or Comments
 If you have any questions or comments feel free to reach out to me via twitter: twitter.com/ajwaxman.
