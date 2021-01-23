@@ -31,4 +31,4 @@ You can find an example spreadsheet [here](https://docs.google.com/spreadsheets/
 ![Alt text](./images/graph.png "Graph")
 
 ### Questions or Comments
-If you have any questions or comments feel free to reach out to me via twitter: twitter.com/ajwaxman.
+If you have any questions or comments feel free to reach out to me via twitter: https://twitter.com/ajwaxman.
