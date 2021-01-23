@@ -1,10 +1,7 @@
-### todoist-time-tracker
-A script to export items from a specific Project into an easy to analyze CSV format for time tracking analysis.
+## Todoist Time Tracker 
+A script to export items from a specific Project into an easy to analyze CSV format for time tracking analysis. Inspired by a related Twitter [thread](https://twitter.com/karrisaarinen/status/1352685228242784256).
 
 ![Alt text](./images/data.png "Data")
-
-![Alt text](./images/graph.png "Graph")
-
 
 ### Add your Todoist API token to todoist-time-tracker.py
 
@@ -30,6 +27,8 @@ While I haven't added the following logic to the script yet, some ideas for futu
 
 ### Example Spreadsheet
 You can find an example spreadsheet [here](https://docs.google.com/spreadsheets/d/1g9mh8__dP2G0b64v4SkJvoVyIFraebZAz1mceoj4lL0/edit?usp=sharing).
+
+![Alt text](./images/graph.png "Graph")
 
 ### Questions or Comments
 If you have any questions or comments feel free to reach out to me via twitter: twitter.com/ajwaxman.
