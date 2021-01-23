@@ -29,7 +29,7 @@ You can find an example spreadsheet [here](https://docs.google.com/spreadsheets/
 ![Graph](./images/graph.png "Graph")
 
 ## Video Demo
-You can check out a demo of the workflow in action [here](https://www.loom.com/share/66aed12aa5f14cbdadb75754ef513b55).
+You can check out a demo of the workflow in action [here](https://www.loom.com/share/66aed12aa5f14cbdadb75754ef513b55). Here is also a [blogpost](https://blog.awaxman.com/time-tracking-with-todoist) with more context about the idea.
 
 
 # Tags and CSV Format Ideas
