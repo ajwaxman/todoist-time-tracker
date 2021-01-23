@@ -11,7 +11,7 @@ A script to export items from a specific Project into an easy to analyze CSV for
 
 ## Add your Todoist API token to todoist-time-tracker.py
 
-You can find your Todoist API token via "Setttings > Integrations > API Token"
+You can find your Todoist API token via ```Settings > Integrations > API Token```
 
 ## Add the project ID to todoist-time-tracker.py 
 
@@ -32,7 +32,7 @@ You can find an example spreadsheet [here](https://docs.google.com/spreadsheets/
 You can check out a demo of the workflow in action [here](https://www.loom.com/share/66aed12aa5f14cbdadb75754ef513b55).
 
 
-## Tags and CSV Format Ideas
+# Tags and CSV Format Ideas
 
 While I haven't added the following logic to the script yet, some ideas for future improvement are adding a column that categorizes the work as either:
 1. Intentional: tasks that you planned to do that day
@@ -40,5 +40,5 @@ While I haven't added the following logic to the script yet, some ideas for futu
 3. Reactive: tasks that poppped up during the day that you had to react to
 4. Distractions: Time spent distracted from any productive tasks
 
-## Questions or Comments
+# Questions or Comments
 If you have any questions or comments feel free to reach out to me via twitter: https://twitter.com/ajwaxman.
