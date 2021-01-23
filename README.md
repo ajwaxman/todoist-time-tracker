@@ -30,5 +30,8 @@ You can find an example spreadsheet [here](https://docs.google.com/spreadsheets/
 
 ![Alt text](./images/graph.png "Graph")
 
+### Video Demo
+You can check out a demo of the workflow in action [here](https://www.loom.com/share/66aed12aa5f14cbdadb75754ef513b55).
+
 ### Questions or Comments
 If you have any questions or comments feel free to reach out to me via twitter: https://twitter.com/ajwaxman.
