@@ -29,7 +29,7 @@ While I haven't added the following logic to the script yet, some ideas for futu
 4. Distractions: Time spent distracted from any productive tasks
 
 ### Example Spreadsheet
-You can find an example spreadsheet ![here](https://docs.google.com/spreadsheets/d/1g9mh8__dP2G0b64v4SkJvoVyIFraebZAz1mceoj4lL0/edit?usp=sharing).
+You can find an example spreadsheet [here](https://docs.google.com/spreadsheets/d/1g9mh8__dP2G0b64v4SkJvoVyIFraebZAz1mceoj4lL0/edit?usp=sharing).
 
 ### Questions or Comments
 If you have any questions or comments feel free to reach out to me via twitter: twitter.com/ajwaxman.
